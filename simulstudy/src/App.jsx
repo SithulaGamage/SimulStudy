@@ -5,6 +5,7 @@ import { WeekProgress } from './weekProgress/weekProgress.jsx';
 import { InformationBlock } from './informationBlock/informationBlock.jsx';
 import { OptionsBlock } from './optionsBlock/optionsBlock.jsx';
 import { Leaderboard } from './leaderboard/leaderboard.jsx';
+import { History } from './history/history.jsx';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
 
       <div className='middleBlock-app'>
         <Leaderboard />
+        <History />
       </div>
 
     </div>

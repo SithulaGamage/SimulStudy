@@ -23,7 +23,7 @@ export const Leaderboard = () => {
           <h2>Weekly Leaderboard</h2>
         </div>
         <p className='subtitle-heading-leaderboard'>
-          Top students this week – Compete to reach the top!
+          Top students this week - Compete to reach the top!
         </p>
       </div>
 
